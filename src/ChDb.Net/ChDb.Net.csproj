@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>ChDb</RootNamespace>
+    <AssemblyName>ChDb.Net</AssemblyName>
+    <Description>Pure C# port of chDB - an embedded ClickHouse-style SQL engine (no native dependency)</Description>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="ChDb.Net.Tests" />
+  </ItemGroup>
+
+</Project>

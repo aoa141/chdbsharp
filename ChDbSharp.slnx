@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ChDb.Net/ChDb.Net.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ChDb.Net.Tests/ChDb.Net.Tests.csproj" />
+  </Folder>
+</Solution>
